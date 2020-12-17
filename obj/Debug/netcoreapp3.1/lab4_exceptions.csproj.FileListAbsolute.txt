@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\bin\Debug\netcoreapp3.1\lab4_exceptions.exe
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\bin\Debug\netcoreapp3.1\lab4_exceptions.deps.json
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\bin\Debug\netcoreapp3.1\lab4_exceptions.runtimeconfig.json
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\bin\Debug\netcoreapp3.1\lab4_exceptions.runtimeconfig.dev.json
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\bin\Debug\netcoreapp3.1\lab4_exceptions.dll
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\bin\Debug\netcoreapp3.1\lab4_exceptions.pdb
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.AssemblyInfo.cs
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.dll
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.pdb
+C:\Users\asus\source\repos\lab4_exceptions\lab4_exceptions\obj\Debug\netcoreapp3.1\lab4_exceptions.genruntimeconfig.cache
